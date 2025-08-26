@@ -1,0 +1,11 @@
+{
+  "modules": [117233272009936, 123456789],
+  "settings": {
+    "autoLoad": true,
+    "debugMode": false
+  },
+  "data": {
+    "version": "1.0",
+    "lastUpdated": "2025-01-01"
+  }
+}
